@@ -1,0 +1,15 @@
+.main{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 450px;
+    max-width: 85vw;
+    height: 300px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color: white;
+    font-size: 2em;
+  }
